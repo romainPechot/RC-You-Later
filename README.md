@@ -6,7 +6,7 @@ Il se compose en deux parties : une partie strict (10 points) et une partie libr
 
 Tu as jusqu'à **Mardi 7 Avril 2026 à 23h59** pour rendre ce devoir.
 
-Comme le dernier devoir, fait un fork de (ce projet)[https://github.com/romainPechot/RC-You-Later] pour te créer ta copie.
+Comme le dernier devoir, fait un fork de [ce projet](https://github.com/romainPechot/RC-You-Later) pour te créer ta copie.
 
 ## 1ère Partie : Sauvons le temps !
 
