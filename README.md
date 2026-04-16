@@ -6,7 +6,7 @@ Il se compose en deux parties : une partie strict (10 points) et une partie libr
 
 Tu as jusqu'à **Mardi 7 Avril 2026 à 23h59** pour rendre ce devoir.
 
-Comme le dernier devoir, fait un fork de ce projet pour te créer ta copie.
+Comme le dernier devoir, fait un fork de (ce projet)[https://github.com/romainPechot/RC-You-Later] pour te créer ta copie.
 
 ## 1ère Partie : Sauvons le temps !
 
@@ -27,7 +27,8 @@ Points bonus :
 
 3. **2 Points** : Trouve un moyen de ne sauvegarder le temps (et les étapes) du joueur seulement s'il bat le temps final record déjà sauvegardé.
 
-4. **4 Points** (pour les fans du code): Vu que c'est un score on aimerait le "protéger" afin que des petits malins ne viennent pas modifier le fichier à la main. Trouve un moyen de protéger le fichier. Un simple encryptage en [Base64](https://zetcode.com/csharp/base64/) ou sauvegarder en [Binaire](https://learn.microsoft.com/fr-fr/dotnet/api/system.io.binarywriter?view=net-8.0) peut suffire pour cet exercice.
+4. **~~4~~ 2 Points** (pour les fans du code): Vu que c'est un score on aimerait le "protéger" afin que des petits malins ne viennent pas modifier le fichier à la main. Trouve un moyen de protéger le fichier. Un simple encryptage en [Base64](https://zetcode.com/csharp/base64/) ou sauvegarder en [Binaire](https://learn.microsoft.com/fr-fr/dotnet/api/system.io.binarywriter?view=net-8.0) peut suffire pour cet exercice.
+*N.b.: J'ai réduit le nombre de points attribués à cette étape car cela impactait un peu trop la note totale (et réduisait l'importance de la deuxième partie).*
 
 ## 2ème Partie : Ça manque d'un certains *je ne sais quoi*..
 
